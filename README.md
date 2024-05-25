@@ -1,7 +1,7 @@
 ## Predicting Heart Disease With Various Machine Learning Models
 
 In this notebook I am trying to predict whether someone has heart disease or not. The dataset used in this project is
-the [`Heart Disease dataset from UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease).
+the [`Heart Disease dataset from UCI Machine Learning Repository`](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
 The different algorithms used in this notebook are:
 * Logistic Regression
