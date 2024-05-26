@@ -10,7 +10,7 @@ The different algorithms used in this notebook are:
 * Random Forest
 * Support Vector Machine
 
-### Tips & Suggestions
+### Tips - Suggestions - Feedback
 
 I am very much just starting out with my machine learning journey, and I've only really been into programming for about 
 6 months. Any tips, suggestions and feedback is very welcome and greatly appreciated. You can absolutely be critical and
